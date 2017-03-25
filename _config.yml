@@ -7,7 +7,7 @@
 
 # Site settings
 title: Work in progress
-email: kristiansagmo@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Stay tuned for updates
 baseurl: "" # the subpath of your site, e.g. /blog
